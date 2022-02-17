@@ -19,7 +19,7 @@ body > div {
 
 .section-one {
   width: 100%;
-  background-image: url(./image/pf-43b8dee6-4c45-4faa-b761-3d946564d043--Tasta-Tea-background-1.jpg);
+  background-image: url(../image/pf-43b8dee6-4c45-4faa-b761-3d946564d043--Tasta-Tea-background-1.jpg);
   background-size: cover;
 }
 
@@ -167,7 +167,7 @@ body > div {
 }
 
 .section-tow .container .row .pf-c .one {
-  background-image: url(./image/300.jpg);
+  background-image: url(../image/300.jpg);
 }
 
 .section-tow .container .row .pf-c .one h3 {
@@ -181,7 +181,7 @@ body > div {
 }
 
 .section-tow .container .row .pf-c .tow {
-  background-image: url(./image/301.jpg);
+  background-image: url(../image/301.jpg);
   color: white;
 }
 
@@ -201,7 +201,7 @@ body > div {
 }
 
 .section-three {
-  background-image: url(./image/302.png);
+  background-image: url(../image/302.png);
   background-size: cover;
   background-position: center center;
   padding-top: 120px;

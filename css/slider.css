@@ -357,6 +357,7 @@ body > div {
   margin-bottom: 5px;
   font-weight: 400;
   font-size: 18px;
+  flex: 1 1 0%;
 }
 
 .section-six .container .row .product span {
